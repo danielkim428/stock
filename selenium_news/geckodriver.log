@@ -1,0 +1,644 @@
+1596766433903	geckodriver	INFO	Listening on 127.0.0.1:65458
+1596766437010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileJthRzR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596766441487	Marionette	INFO	Listening on port 65475
+1596766441785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilesOfR5H"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596766489501	Marionette	INFO	Listening on port 49184
+1596766489771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49257
+1596766532015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileGnN1dD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596766535713	Marionette	INFO	Listening on port 49265
+1596766536159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilezuR2uI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596766575961	Marionette	INFO	Listening on port 49331
+1596766576190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Exiting due to channel error.
+:runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileWRgsRb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596766669272	Marionette	INFO	Listening on port 49444
+1596766669686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilesqqSOM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596767435053	Marionette	INFO	Listening on port 50118
+1596767435438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilesrCMSQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596767518086	Marionette	INFO	Listening on port 50219
+1596767518345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50306
+1596767645243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilerE1M3u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596767649330	Marionette	INFO	Listening on port 50314
+1596767649383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile7zFgNn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596768009244	Marionette	INFO	Listening on port 50462
+1596768009570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileVNRiXV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596768085707	Marionette	INFO	Listening on port 50583
+1596768085971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileYAAamP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596768105513	Marionette	INFO	Listening on port 50665
+1596768105545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:51562
+1596769108918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilejUqnUs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769113407	Marionette	INFO	Listening on port 51574
+1596769113679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileOhFC5a"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769138509	Marionette	INFO	Listening on port 51654
+1596769138766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileC9ral4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769173803	Marionette	INFO	Listening on port 51737
+1596769174326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile8DZv6N"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769217182	Marionette	INFO	Listening on port 51958
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15972, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596796837545	Marionette	INFO	Stopped listening on port 51958
+rionette	INFO	Listening on port 52006
+1596769224732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilertwQ0S"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769338963	Marionette	INFO	Listening on port 52242
+1596769339136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileXKVXcd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769354692	Marionette	INFO	Listening on port 52311
+1596769354830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileRBwCeD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596769373038	Marionette	INFO	Listening on port 52391
+1596769373300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileswqIPe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770002240	Marionette	INFO	Listening on port 53445
+1596770002336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53695
+1596770067549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile7TNZ8R"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770069818	Marionette	INFO	Listening on port 53705
+1596770070167	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596770079241	Marionette	INFO	Stopped listening on port 53705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596770504653	geckodriver	INFO	Listening on 127.0.0.1:54485
+1596770507684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileTEWjJg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770510166	Marionette	INFO	Listening on port 54497
+1596770510300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54954
+1596770669232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile30OzCP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770672447	Marionette	INFO	Listening on port 54963
+1596770672857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55231
+1596770750335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileIRERvr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770754194	Marionette	INFO	Listening on port 55246
+1596770754464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55591
+1596770891718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilebVtWJB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596770893916	Marionette	INFO	Listening on port 55601
+1596770894333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 28200, Chrome_ChildThread] WAner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileK4SRBS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596771171581	Marionette	INFO	Listening on port 56046
+1596771171911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile2QoDGz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596771320491	Marionette	INFO	Listening on port 56381
+1596771320874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:58076
+1596773131294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilevNNfhh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596773136763	Marionette	INFO	Listening on port 58088
+1596773137026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59375
+1596773832757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilestpWH8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596773836886	Marionette	INFO	Listening on port 59386
+1596773836893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+[Child 8248, Chroning command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileMKBZ3d"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596773864875	Marionette	INFO	Listening on port 59603
+1596773865271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59923
+1596773919380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileeCYbCu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596773926697	Marionette	INFO	Listening on port 59935
+1596773927119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 35112, Chrome_ChildThread] WARNINGNFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileSL7AZ2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596773962582	Marionette	INFO	Listening on port 60147
+1596773963063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60427
+1596774037716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilePRzjTz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774048391	Marionette	INFO	Listening on port 60438
+1596774048480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60653
+1596774082554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilexFkr1l"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774096013	Marionette	INFO	Listening on port 60664
+1596774096185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60754
+1596774115089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilefYF9IQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774125327	Marionette	INFO	Listening on port 60764
+1596774125481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596774145189	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileqj3FkF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774272343	Marionette	INFO	Listening on port 61183
+1596774272662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596774298703	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1596774337362	Marionette	INFO	Stopped listening on port 61183
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1596774381268	geckodriver	INFO	Listening on 127.0.0.1:61548
+1596774384290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile0XhUK4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774396578	Marionette	INFO	Listening on port 61556
+1596774396772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596774416749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileAdQv7b"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596774564809	Marionette	INFO	Listening on port 61945
+1596774565272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:59281
+1596794067462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileiONbFz"
+*** You are running in headless mode.
+1596794137025	geckodriver	INFO	Listening on 127.0.0.1:59463
+1596794140053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileEIfttF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596794152220	Marionette	INFO	Listening on port 59476
+1596794152337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596794167976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59949
+1596794710392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilejnBX7s"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596794717694	Marionette	INFO	Listening on port 59959
+1596794717761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596794729965	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileJuTo9V"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596794868669	Marionette	INFO	Listening on port 60358
+1596794869408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596794891890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Exiting due to channel error.
+[Child 47520, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouonette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileCtZnC2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596795020658	Marionette	INFO	Listening on port 60702
+1596795020912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/c2f5133ac101ff260d1bbce020283991.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1596795041728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gstatic.com/mysidia/c2f5133ac101ff260d1bbce020283991.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596795252294	geckodriver	INFO	Listening on 127.0.0.1:61093
+1596795255400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofiletlGojk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596795275413	Marionette	INFO	Listening on port 61102
+1596795276003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596795294855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 44428, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channExiting due to channel error.
+marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilePpoKPW"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596795698694	Marionette	INFO	Listening on port 61855
+1596795698776	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390132,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1596795721363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596795733674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596795813146	geckodriver	INFO	Listening on 127.0.0.1:62262
+1596795815797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofilekAaIW1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596795828085	Marionette	INFO	Listening on port 62271
+1596795828670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596795857785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 45044, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Parent 45044, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Parent 45044, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Parent 45044, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Parent 45044, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAC0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 45044, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: NS_ERROR_NOT_AVAILABLE
+onette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596796479123	Marionette	INFO	Stopped listening on port 63140
+1596796678318	geckodriver	INFO	Listening on 127.0.0.1:63387
+1596796681548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofile3sQupr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596796692617	Marionette	INFO	Listening on port 63401
+1596796692877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596796719062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596796741033	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596796758611	Marionette	INFO	Stopped listening on port 63401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596797523831	geckodriver	INFO	Listening on 127.0.0.1:50411
+1596797526891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\82109\\AppData\\Local\\Temp\\rust_mozprofileYDI9Ve"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596797528724	Marionette	INFO	Listening on port 50420
+1596797528906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596797544049	Marionette	INFO	Stopped listening on port 50420
